@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+ashioto/__init__.py
+ashioto.egg-info/PKG-INFO
+ashioto.egg-info/SOURCES.txt
+ashioto.egg-info/dependency_links.txt
+ashioto.egg-info/entry_points.txt
+ashioto.egg-info/not-zip-safe
+ashioto.egg-info/top_level.txt
